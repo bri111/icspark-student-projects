@@ -1,3 +1,3 @@
-## Contributions
+## CONTRIBUTING
 
 Make issues 
